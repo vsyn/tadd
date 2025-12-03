@@ -1,0 +1,9 @@
+[submodule "lblist"]
+	path = lblist
+	url = https://github.com/vsyn/lblist
+[submodule "lbtree"]
+	path = lbtree
+	url = https://github.com/vsyn/lbtree
+[submodule "everand"]
+	path = everand
+	url = https://github.com/vsyn/everand
